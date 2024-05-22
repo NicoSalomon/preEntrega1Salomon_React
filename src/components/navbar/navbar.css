@@ -1,0 +1,17 @@
+.contain {
+    margin-top: 1%;
+    display: flex;
+    align-items: center;
+} .contain nav {
+    width: 75%;
+}
+
+.lista {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+} .lista li {
+    margin-inline-start: 5%;
+} .lista li .li_button {
+    color: bisque;
+}
