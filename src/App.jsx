@@ -14,5 +14,3 @@ function App() {
 }
 
 export default App
-
-// Poner los li en linea, ponerlos en el nav, "algo proximo está por venir" o alguna boludes asi
